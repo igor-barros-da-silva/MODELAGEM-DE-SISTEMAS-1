@@ -1,0 +1,55 @@
+Esta aula abordará os fundamentos da Análise e Projeto de Sistemas, com foco no conceito de modelagem, na importância da abstração para lidar com a complexidade e no uso da linguagem UML como ferramenta de comunicação. 
+
+1. O que é Modelagem e Modelos? 
+
+A modelagem é uma forma de pensar sobre problemas utilizando ideias organizadas em torno do mundo real. Ela serve como uma ponte de comunicação entre todos os envolvidos no projeto, desde clientes e especialistas de domínio até os designers. 
+
+Definição de Modelo: São abstrações que retratam a essência de um problema complexo. 
+
+A função da Abstração: Sua principal finalidade é filtrar detalhes não essenciais, tornando a estrutura mais fácil de compreender. A abstração é uma capacidade humana fundamental para gerenciar a complexidade. 
+
+2. Por que e onde usar Modelos? 
+
+Assim como engenheiros e arquitetos utilizam plantas e diagramas antes de construir pontes ou edifícios, o desenvolvimento de software deve seguir o mesmo rigor. Fazemos modelos porque existem limites à capacidade humana de entender sistemas inteiramente complexos. 
+
+Objetivos do modelo no software: 
+
+Identificar requisitos e facilitar a comunicação. 
+
+Focar na interação entre os componentes do sistema, sem se perder em detalhes específicos precocemente. 
+
+Visualizar relacionamentos e utilizar uma linguagem gráfica comum para toda a equipe. 
+
+3. O Tripé para um Projeto de Sucesso 
+
+Para que um projeto de sistemas seja bem-sucedido, o projetista precisa integrar três componentes essenciais: 
+
+ 
+
+Componente 
+
+Exemplos Citados 
+
+Notação 
+
+UML (Unified Modeling Language), OMT. 
+
+Processo 
+
+RUP, Scrum e XP. 
+
+Ferramenta 
+
+ASTAH, Poseidon, ArgoUML. 
+
+4. Introdução à UML e Ferramentas CASE 
+
+A UML (Unified Modeling Language) é a notação padrão discutida. É importante destacar que ela não é uma metodologia de desenvolvimento e não diz como projetar, mas auxilia na visualização, especificação e documentação do produto. 
+
+Diagramas da UML: São divididos em duas grandes categorias: Estruturais (como Diagramas de Classes e Objetos) e Comportamentais (como Casos de Uso e Sequência). 
+
+Ferramenta ASTAH: É uma ferramenta CASE (como o NetBeans) que permite a criação desses diagramas. A versão paga permite até a engenharia reversa, transformando diagramas em código-fonte. 
+
+ 
+
+ 
